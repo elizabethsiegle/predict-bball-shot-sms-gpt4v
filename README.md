@@ -1,3 +1,8 @@
+
+## Shot predictor via SMS with GPT-4V
+
+![SMS example](image-3.png)
+Predict whether a basketball shot went in or not via SMS using GPT-4V.
 You'll need 
 - an OpenAI API Key. You can [get one here](https://platform.openai.com/account/api-keys)
 - A Twilio account - sign up for a free [Twilio Account here](https://www.twilio.com/try-twilio)
